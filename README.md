@@ -3,7 +3,7 @@ YouTube Channel and playlist Crawler
 
 # Quick guide
 1 - create virtual env  
-2 - activate virtual env
+2 - activate virtual env  
 3 - pip install -r requirements.txt  
 4 - make changes to example.py  
 5 - run --> python example.py 
