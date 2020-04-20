@@ -1,2 +1,2 @@
 # YTC
-YouTube Crawler
+YouTube Channel and playlist Crawler
