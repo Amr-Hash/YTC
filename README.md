@@ -1,6 +1,11 @@
 # YTC
 YouTube Channel and playlist Crawler
-see example.py for quick usage guide
+
+# Quick guide
+1 - create virtual env  
+2 - pip install -r requirements.txt  
+3 - make changes to example.py  
+4 - run -> python example.py 
 
 # creator
 Amr Hashem
