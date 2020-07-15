@@ -15,4 +15,4 @@ Amr Hashem
 https://github.com/Amr-Hash
 
 # linkedin
-https://www.linkedin.com/in/amr-hashem-347b281a2/
+https://www.linkedin.com/in/amr-hash/
